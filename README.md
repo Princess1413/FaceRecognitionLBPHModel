@@ -5,8 +5,7 @@ Step1: Python 3.9+ must be installed.
 
 Step2: OpenCV and NumPy should be installed.
 
-Step3: Clone the repo using command
-git clone 
+Step3: Clone the repo using command prompt
 
 Step4: pip install requiremts.txt
 
